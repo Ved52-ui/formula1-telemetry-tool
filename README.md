@@ -1,5 +1,5 @@
 # Formula 1 Telemetry Analysis Tool
-A fast, GUI based application, to gain insights into Formula 1 telemetry data. 
+A fast, GUI based application, to gain insights into Formula 1 telemetry data.  
 
 **Hamilton to Ferrari!!**
 
